@@ -1,5 +1,7 @@
 ### Olá 👋, meu nome é Rodolfo Mamud
 
+Sou estudante de sistemas de informação e estou buscando por novas oportunidades de aprimorar meus conhecimentos.
+
 <!--
 **rodolfoguner/rodolfoguner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
