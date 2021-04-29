@@ -16,13 +16,13 @@ Atualmente sou estudante de sistemas informação e adorando programar e descobr
 
 <p align=center>
     <a href="https://www.linkedin.com/in/rodolfo-mamud-b84b6820b/">
-        <img src="./icons/linkedin.png" width="50px"/>
+        <img src="https://user-images.githubusercontent.com/72309970/116627280-326ebe00-a923-11eb-81a0-5cfe69908dc5.png" width="50px"/>
     </a>
     <a href="rodolfo.guner@outlook.com">
-        <img src="./icons/email.png" width="50px"/>
+        <img src="https://user-images.githubusercontent.com/72309970/116627309-474b5180-a923-11eb-8ce0-2c1dc973d75c.png" width="50px"/>
     </a>
     <a href="https://www.instagram.com/rodolfo.mamud/">
-        <img src="./icons/instagram.png" width="50px"/>
+        <img src="https://user-images.githubusercontent.com/72309970/116627348-55996d80-a923-11eb-915d-76090a52bfef.png" width="50px"/>
     </a>
 </p>
 
