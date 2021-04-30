@@ -1,6 +1,8 @@
 # Eai pessoal, eu sou Rodolfo 
 
 Atualmente sou estudante de sistemas informação e adorando programar e descobrir novos desafios
+<br/>
+<br/>
 ### Estou aprendendo:
 <p align=center>
     <img src="https://user-images.githubusercontent.com/72309970/116626960-91800300-a922-11eb-9a0c-9048b3465bea.png" width="50px"/>
@@ -12,9 +14,7 @@ Atualmente sou estudante de sistemas informação e adorando programar e descobr
     <img src="https://user-images.githubusercontent.com/72309970/116627167-fb98a800-a922-11eb-8602-da9cae1b2b73.png" width="70px">
 </p>
 
-
 ### Como chegar até mim:
-
 <p align=center>
     <a href="https://www.linkedin.com/in/rodolfo-mamud-b84b6820b/">
         <img src="https://user-images.githubusercontent.com/72309970/116627280-326ebe00-a923-11eb-81a0-5cfe69908dc5.png" width="50px"/>
