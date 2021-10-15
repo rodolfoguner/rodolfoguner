@@ -1,6 +1,6 @@
 # Eai pessoal, eu sou Rodolfo 
 
-Atualmente sou estudante de sistemas informação e adorando programar e descobrir novos desafios
+Atualmente sou estudante de sistemas de informação, e estou me aperfeiçoando cada vez mais.
 <br/>
 <br/>
 ### Estou aprendendo:
